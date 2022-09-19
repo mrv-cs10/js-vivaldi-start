@@ -37,10 +37,6 @@ button {
     letter-spacing: 0.6px;
 }
 
-.activeBtn {
-    border: 2px solid #990100;
-}
-
 .springBtn {
     background-color: #0E94D1;
 }
