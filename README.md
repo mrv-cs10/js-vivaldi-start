@@ -10,7 +10,6 @@ Start Code and Instructions for JS Vivaldi Example
   <li>Change the main image to 'summer.jpg'</li>
   <li>Change the page background color to match the summer button</li>
   <li>Change the audio source to 'vivaldi-summer.mp3'</li>
-  <li>Make it so that the summer button is the only button with the active border</li>
 </ul>
 
 <p>If the user clicks the autumn button:</p>
@@ -19,7 +18,6 @@ Start Code and Instructions for JS Vivaldi Example
   <li>Change the main image to 'autumn.jpg'</li>
   <li>Change the page background color to match the autumn button</li>
   <li>Change the audio source to 'vivaldi-autumn.mp3'</li>
-  <li>Make it so that the autumn button is the only button with the active border</li>
 </ul>
 
 <p>If the user clicks the winter button:</p>
@@ -28,7 +26,6 @@ Start Code and Instructions for JS Vivaldi Example
   <li>Change the main image to 'winter.jpg'</li>
   <li>Change the page background color to match the winter button</li>
   <li>Change the audio source to 'vivaldi-winter.mp3'</li>
-  <li>Make it so that the winter button is the only button with the active border</li>
 </ul>
 
 <p>If the user clicks the spring button:</p>
@@ -37,7 +34,6 @@ Start Code and Instructions for JS Vivaldi Example
   <li>Change the main image to 'spring.jpg'</li>
   <li>Change the page background color to match the spring button</li>
   <li>Change the audio source to 'vivaldi-spring.mp3'</li>
-  <li>Make it so that the spring button is the only button with the active border</li>
 </ul>
 
 <hr>
